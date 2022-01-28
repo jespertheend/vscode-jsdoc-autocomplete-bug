@@ -12,6 +12,6 @@
  * @param {FooObj} a
  * @param {FooObj} b
  */
- function foo(a, b) {
+function foo(a, b) {
     return a.num + b.num;
 }
